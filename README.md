@@ -1,10 +1,8 @@
 # Monokai2 Color Scheme for Vim
 
-Monokai2 is a Vim port of the monokai theme for TextMate originally created by Wimer Hazenberg.
+Monokai2 is a Vim port of the monokai theme for TextMate originally created by Wimer Hazenberg but with much darker background.
 
-By default, it has a dark gray background based on the version created by Hamish Stuart Macpherson for the E editor.
-
-![Gray Background](http://i.imgur.com/Sx1bRUH.png)
+![Darker Background](http://i.imgur.com/Sx1bRUH.png)
 
 
 256-Color terminals are also supported, though there are some differences with the Gui version. Only the dark gray background style is supported on terminal vim at this time.
